@@ -39,4 +39,4 @@ An interactive web project based on HTML5 Canvas. When users doodle on the canva
 
 本專案採用 **MIT License**。
 
-md my google gemimi
+md by google gemimi
